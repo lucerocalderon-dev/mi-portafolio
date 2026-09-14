@@ -35,3 +35,4 @@ git push origin main
 | git commit | Guarda la version | 
 | git push | Sube los cambios al remoto | 
 > Documentar es parte del trabajo, no un extra al final.
+- [Guia del proyecto](docs/GUIA.md)
